@@ -139,3 +139,8 @@ Docs:
    - [CONTEXT](CONTEXT.md)
    - [AUTHENTICATION](AUTHENTICATION.md)
    - [ADDITIONAL](ADDITIONAL.md)
+   
+   
+Links
+    - [Web](http://www.hug.rest/)
+    - [GitHub](https://github.com/timothycrosley/hug)
