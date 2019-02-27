@@ -128,3 +128,14 @@ Response code: 200 (OK); Time: 14ms; Content length: 13 bytes
     -   All of hugs built-in output formats are found in  `hug/output_format.py`
     -   All of hugs built-in input formats are found in  `hug/input_format.py`
     -   The default assumption for output_formatting is JSON
+    
+    
+Docs:
+   - [ROUTING](ROUTING.md)
+   - [TYPE_ANNOTATIONS](TYPE_ANNOTATIONS.md)
+   - [DIRECTIVES](DIRECTIVES.md)
+   - [OUTPUT FORMATS](OUTPUT_FORMATS.md)
+   - [ERROR HANDLERS](ERROR_HANDLERS.md)
+   - [CONTEXT](CONTEXT.md)
+   - [AUTHENTICATION](AUTHENTICATION.md)
+   - [ADDITIONAL](ADDITIONAL.md)
